@@ -102,3 +102,12 @@ ul .checked {
 ul li.checked::before {
     background-image: url("./images/checked.png");
 }
+
+ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+
+
+}
